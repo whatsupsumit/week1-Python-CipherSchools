@@ -1,0 +1,5 @@
+print("this is \\\\ double dilux oreo")
+print("these are /\\/\\/\\ mountains")
+print("he is \t ugly")
+print(" \\\" \\n \\t \\\ ")
+print(r"line a is \\n line b")
